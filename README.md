@@ -1,4 +1,4 @@
-# 📌 Ordem de Serviço - Oficina Mecânica  
+# 📌 Sistema para Controle de Ordem de Serviço - Oficina Mecânica  
 
 Bem-vindo ao sistema de **gestão de ordens de serviço** para oficinas mecânicas! 🏍️🚗🔧  
 Este projeto foi desenvolvido para auxiliar mecânicos e administradores na organização de serviços, garantindo eficiência e controle total das ordens de serviço.  
