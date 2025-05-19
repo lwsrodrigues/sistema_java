@@ -5,6 +5,17 @@ Este projeto foi desenvolvido para auxiliar mecânicos e administradores na orga
 
 ---
 
+
+## 📸 Spoiler do Projeto
+
+<details>
+  <summary>Clique para ver uma prévia do sistema 📷</summary>
+
+  ![Preview do Sistema](https://github.com/lwsrodrigues/sistema_java/blob/main/www.reallygreatsite.com21.png)
+
+</details>
+
+
 ## 🚀 Tecnologias Utilizadas  
 
 ✔️ **Java SE** ☕ - Desenvolvimento da aplicação  
